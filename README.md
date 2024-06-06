@@ -254,3 +254,6 @@ The p-value obtained is 0.0073, which is less than the typical significance leve
 
 Therefore, we can reject the null hypothesis and conclude that the average age of clients using the new process is significantly different from those using the old process. This difference is statistically significant.
 
+## Presentation 
+
+Link - https://docs.google.com/presentation/d/1lsHi3wuV4JeLIkMPU02p2D5VV8Us2yOCM9hWuUI4mec/edit?usp=sharing
